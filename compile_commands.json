@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/nfs/ug/homes-3/j/jishuli1/ece344/pipe",
+  "command": "/usr/bin/gcc   -g3 -gdwarf-2 -Wall -Wextra -pedantic -std=gnu11 -o CMakeFiles/pipe.dir/pipe.c.o -c /nfs/ug/homes-3/j/jishuli1/ece344/pipe/pipe.c",
+  "file": "/nfs/ug/homes-3/j/jishuli1/ece344/pipe/pipe.c"
+}
+]
